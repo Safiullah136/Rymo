@@ -1,0 +1,9 @@
+{
+  "env": {
+    "ADMIN_USER_EMAILS": "muhammadsafiullah136@gmail.com",
+    "MONGO_USER": "muhammad_safiullah",
+    "MONGO_PASSWORD": "t0DpXlWGGicxRZuA",
+    "MONGO_DATABASE": "rymo",
+    "TOKEN_SECRET": "supersupersecretbearer"
+  }
+}
